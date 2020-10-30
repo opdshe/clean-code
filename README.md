@@ -9,22 +9,21 @@
 <br>
 <h2> 목차 </h2>
 <ol>
-  <li> 깨끗한 코드 </li> 
-  <li> 의미있는 이름 </li>
-  <li> 함수 </li>
-  <li> 주석 </li>
-  <li> 형식 맞추기 </li>
-  <li> 객체와 자료구조 </li>
-  <li> 오류 처리 </li>
-  <li> 경계 </li>
-  <li> 단위 테스트 </li>
-  <li> 클래스 </li>
-  <li> 시스템 </li>
-  <li> 창발성 </li>
-  <li> 동시성 </li>
-  <li> 점진적인 개선 </li>
-  <li> JUnit 들여다보기 </li>
-  <li> SerialDate 리팩터링 </li>
-  <li> 냄새와 휴리스틱 </li>
-  <li> 의미있는 이름 </li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Clean_code"> 깨끗한 코드 </a></li> 
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Meaningful_names"> 의미있는 이름 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Functions">함수 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Comments">주석 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Formatting">형식 맞추기 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Objects_and_Data_Structures">객체와 자료구조 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Error_Handling">오류 처리 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Boundaries">경계 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Unit_Tests">단위 테스트 </a><</li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Classes">클래스 </a><</li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Systems">시스템 </a><</li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Emergence">창발성 </a><</li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Concurrency">동시성 </a><</li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Successive_refinement">점진적인 개선 </a><</li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/JUnit_Internals">JUnit 들여다보기 </a><</li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Refactoring_SerialDate">SerialDate 리팩터링 </a><</li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Smells_and_Heuristics">냄새와 휴리스틱 </a><</li>
 </ol>
