@@ -18,7 +18,7 @@ __**_나중은 결코 돌아오지 않는다._**__"
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Error_Handling">오류 처리 </a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Boundaries">경계 </a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Unit_Tests">단위 테스트 V</a></li>
-  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Classes">클래스 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Classes">클래스 V</a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Systems">시스템 </a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Emergence">창발성 </a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Concurrency">동시성 </a></li>
