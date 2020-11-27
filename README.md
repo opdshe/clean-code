@@ -20,7 +20,7 @@ __**_나중은 결코 돌아오지 않는다._**__"
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Unit_Tests">단위 테스트 V</a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Classes">클래스 V</a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Systems">시스템 </a></li>
-  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Emergence">창발성 </a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Emergence">창발성 V</a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Concurrency">동시성 </a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Successive_refinement">점진적인 개선 </a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/JUnit_Internals">JUnit 들여다보기 </a></li>
