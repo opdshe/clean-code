@@ -10,7 +10,7 @@ __**_나중은 결코 돌아오지 않는다._**__"
 <h2> 목차 </h2>
 <ol>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Clean_code"> 깨끗한 코드 V</a></li> 
-  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Meaningful_names"> 의미있는 이름 V</a></li>
+  <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Meaningful_names"> 의미있는 이름 VV</a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Functions">함수 V</a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Comments">주석 </a></li>
   <li> <a href = "https://github.com/opdshe/clean-code/tree/master/Formatting">형식 맞추기 V</a></li>
